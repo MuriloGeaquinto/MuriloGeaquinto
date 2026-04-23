@@ -3,15 +3,14 @@
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=MuriloGeaquinto&show_icons=true&theme=github_dark_dimmed&locale=pt-pt&rank_icon=github&border_radius=10&include_all_commits=true&hide=contribs" alt="Estatísticas do GitHub de Murilo" height="180" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MuriloGeaquinto&layout=compact&theme=github_dark_dimmed&locale=pt-pt&border_radius=10" alt="Linguagens mais usadas por Murilo" height="180" />
-
-  
-  <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' height="180"/>
 </p>
 
 ## Conhecimento Básico
 
 **💻 Linguagens & Frameworks**
 <br/>
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' height="180"/>
+ 
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://en.wikipedia.org/wiki/JavaScript)
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
 [![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
