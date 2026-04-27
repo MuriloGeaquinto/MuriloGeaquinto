@@ -24,9 +24,3 @@
 <br/>
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
-##
-
-<p align="center">
-  <a href="https://www.instagram.com/murilofrds_/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://github.com/MuriloGeaquinto"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
