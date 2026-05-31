@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=MuriloGeaquinto&show_icons=true&theme=github_dark_dimmed&locale=pt-pt&rank_icon=github&border_radius=10&include_all_commits=true&hide=contribs" alt="Estatísticas do GitHub de Murilo" height="180" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MuriloGeaquinto&layout=compact&theme=github_dark_dimmed&locale=pt-pt&border_radius=10" alt="Linguagens mais usadas por Murilo" height="180" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MuriloGeaquinto&layout=compact&theme=github_dark_dimmed&locale=pt-pt&border_radius=10&hide=html" alt="Linguagens mais usadas por Murilo" height="180" />
 </p>
 
 ## Conhecimento Básico
